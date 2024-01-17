@@ -11,7 +11,7 @@ delete midTermSolutionTwoTestObjectsForDelete;
 //---------------------------------------------------------------------------------------------
 // Create TestObject__c records for Mid-Term Solution_2
 String midTermSolutionTwoPattern = 'Mid-Term Solution_2';
-Integer testObjectAmount = 5;
+Integer testObjectAmount = 2;
 List<TestObject__c> midTermSolutionTwoTestObjects = new List<TestObject__c>();
 for(Integer i = 0; i < testObjectAmount; i++) {
     midTermSolutionTwoTestObjects.add(

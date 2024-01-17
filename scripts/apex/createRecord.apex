@@ -15,6 +15,7 @@ insert new TestObject__c(
 );
 // sergeyklimuk79@gmail.com
 // siarhei_klimuk@senla.eu
+// sergey_klimuk@mail.ru
 
 
 //---------------------------------------------------------------------------------------------
