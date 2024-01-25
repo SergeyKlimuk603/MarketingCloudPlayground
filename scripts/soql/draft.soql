@@ -1,0 +1,12 @@
+
+
+
+
+SELECT Id Id,ContentDocumentId, SystemModstamp
+FROM ContentDocumentLink 
+WHERE LinkedEntityId = '0012w0000246vqLAAQ'
+ORDER BY SystemModstamp DESC
+
+SELECT Id, (SELECT Id Id,ContentDocumentId, SystemModstamp FROM ContentDocumentLink ORDER BY SystemModstamp DESC)
+FROM Account 
+WHERE Id = '0012w0000246vqLAAQ'
