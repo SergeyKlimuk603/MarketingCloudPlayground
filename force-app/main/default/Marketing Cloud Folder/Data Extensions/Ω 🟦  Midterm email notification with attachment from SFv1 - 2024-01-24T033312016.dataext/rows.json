@@ -1,0 +1,56 @@
+[
+  {
+    "_CustomObjectKey": "1",
+    "Account:Id": "0012w0000247CYBAA2",
+    "Account:Name": "Mid-Term Solution_2",
+    "Account:Email__c": "siarhei_klimuk@senla.eu",
+    "Account:MC_AssetCustomerKey__c": "56e4cf29-23b6-4f4b-97af-b39a44e8b484",
+    "Account:LastModifiedBy:Email": "sergey_klimuk@mail.ru",
+    "Account:LastModifiedBy:Id": "0052w00000AlxaAAAR"
+  },
+  {
+    "_CustomObjectKey": "2",
+    "Account:Id": "0012w0000247CYBAA2",
+    "Account:Name": "Mid-Term Solution_2",
+    "Account:Email__c": "siarhei_klimuk@senla.eu",
+    "Account:MC_AssetCustomerKey__c": "a00408fe-523d-4db8-aec8-643971fe693e",
+    "Account:LastModifiedBy:Email": "sergey_klimuk@mail.ru",
+    "Account:LastModifiedBy:Id": "0052w00000AlxaAAAR"
+  },
+  {
+    "_CustomObjectKey": "3",
+    "Account:Id": "0012w0000247CYBAA2",
+    "Account:Name": "Mid-Term Solution_2",
+    "Account:Email__c": "siarhei_klimuk@senla.eu",
+    "Account:MC_AssetCustomerKey__c": "83ebe027-9b08-4245-9e52-c235edc2ce18",
+    "Account:LastModifiedBy:Email": "sergey_klimuk@mail.ru",
+    "Account:LastModifiedBy:Id": "0052w00000AlxaAAAR"
+  },
+  {
+    "_CustomObjectKey": "4",
+    "Account:Id": "0012w0000247CYBAA2",
+    "Account:Name": "Mid-Term Solution_2",
+    "Account:Email__c": "siarhei_klimuk@senla.eu",
+    "Account:MC_AssetCustomerKey__c": "031453d4-16a5-4f62-8cb8-9b33d3aff4a5",
+    "Account:LastModifiedBy:Email": "sergey_klimuk@mail.ru",
+    "Account:LastModifiedBy:Id": "0052w00000AlxaAAAR"
+  },
+  {
+    "_CustomObjectKey": "5",
+    "Account:Id": "0012w0000247CYBAA2",
+    "Account:Name": "Mid-Term Solution_2",
+    "Account:Email__c": "siarhei_klimuk@senla.eu",
+    "Account:MC_AssetCustomerKey__c": "31112a09-0dfe-4257-b6c1-d3fd5b9ae77c",
+    "Account:LastModifiedBy:Email": "sergey_klimuk@mail.ru",
+    "Account:LastModifiedBy:Id": "0052w00000AlxaAAAR"
+  },
+  {
+    "_CustomObjectKey": "6",
+    "Account:Id": "0012w0000247CYBAA2",
+    "Account:Name": "Mid-Term Solution_2",
+    "Account:Email__c": "siarhei_klimuk@senla.eu",
+    "Account:MC_AssetCustomerKey__c": "62b446a2-2298-4410-b6a7-6fbe1c5ee75e",
+    "Account:LastModifiedBy:Email": "sergey_klimuk@mail.ru",
+    "Account:LastModifiedBy:Id": "0052w00000AlxaAAAR"
+  }
+]

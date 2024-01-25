@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "Account:Id",
+    "FieldType": "Text",
+    "ObjectID": "7be9b530-b280-4248-bbdf-710d52f8ac3c",
+    "MaxLength": "18",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 0
+  },
+  {
+    "Name": "Account:Name",
+    "FieldType": "Text",
+    "ObjectID": "a63ce395-709b-4ac1-854c-0d747b52e697",
+    "MaxLength": "255",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 1
+  },
+  {
+    "Name": "Account:Email__c",
+    "FieldType": "EmailAddress",
+    "ObjectID": "0d49b9ef-a7e6-4e03-9f68-0d25d2cafe45",
+    "MaxLength": "80",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 2
+  },
+  {
+    "Name": "Account:MC_AssetCustomerKey__c",
+    "FieldType": "Text",
+    "ObjectID": "ad50cb75-0357-43d7-a9bf-aa55d79bf9c7",
+    "MaxLength": "40",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 3
+  },
+  {
+    "Name": "Account:LastModifiedBy:Email",
+    "FieldType": "EmailAddress",
+    "ObjectID": "fe18a855-e8d1-4710-ad60-040ab2e11623",
+    "MaxLength": "128",
+    "Scale": "",
+    "IsRequired": "false",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 4
+  },
+  {
+    "Name": "Account:LastModifiedBy:Id",
+    "FieldType": "Text",
+    "ObjectID": "715be213-151d-452e-bb40-dcaf40c62c84",
+    "MaxLength": "18",
+    "Scale": "",
+    "IsRequired": "true",
+    "IsPrimaryKey": "false",
+    "DefaultValue": "",
+    "Ordinal": 5
+  }
+]

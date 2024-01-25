@@ -1,0 +1,23 @@
+
+%%[
+    VAR @textField
+    VAR @customerKey
+    SET @textField = [TestObject__c:TextField__c]
+    SET @customerKeyLastIndex = Subtract(indexOf(TestObject__c:TextField__c, ";"), 1)
+    if (@customerKeyLastIndex >= 0) then
+      SET @customerKey = Substring(TestObject__c:TextField__c, 0, @customerKeyLastIndex)
+      /*
+      AttachFile("ContentBuilder", @customerKey)
+      */
+    endif
+]%%
+
+<br>
+TestObject__c:TextField__c: %%=v(@textField)=%%
+<br>
+TestObject__c:TextField__c: %%=v([TestObject__c:TextField__c])=%%
+<br>
+customerKey: %%=v(@customerKey)=%%
+<br>
+customerKeyLastIndex: %%=v(@customerKeyLastIndex)=%%
+<br>

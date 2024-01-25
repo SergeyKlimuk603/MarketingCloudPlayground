@@ -1,0 +1,25 @@
+{
+  "$": {
+    "xsi:type": "DataExtension"
+  },
+  "PartnerKey": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "ObjectID": [
+    {
+      "$": {
+        "xsi:nil": "true"
+      }
+    }
+  ],
+  "CustomerKey": [
+    "E3ED5631-A4F0-4442-B9B6-349DDC877446"
+  ],
+  "Name": [
+    "Midterm email notification with attachment from SFv1 - 2024-01-24T033312016"
+  ]
+}

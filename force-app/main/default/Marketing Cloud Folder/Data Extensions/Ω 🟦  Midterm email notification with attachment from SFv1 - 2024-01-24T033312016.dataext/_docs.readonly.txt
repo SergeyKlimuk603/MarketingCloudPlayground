@@ -1,0 +1,10 @@
+Dataextension name: Midterm email notification with attachment from SFv1 - 2024-01-24T033312016
+
+| Name                 | Type            | Not NULL | PK       | Default Value   |
+| -------------------- | --------------- | -------- | -------- | --------------- |
+| Account:Id           | Text(18)        | true     | false    |                 |
+| Account:Name         | Text(255)       | false    | false    |                 |
+| Account:Email__c     | EmailAddress    | false    | false    |                 |
+| Account:MC_AssetCustomerKey__c | Text(40)        | false    | false    |                 |
+| Account:LastModifiedBy:Email | EmailAddress    | false    | false    |                 |
+| Account:LastModifiedBy:Id | Text(18)        | true     | false    |                 |
